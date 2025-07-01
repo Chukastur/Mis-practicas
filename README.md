@@ -1,3 +1,2 @@
 # Mis-practicas
-#
-#Esto repo será donde suba las prácticas de los diferentes cursos de programación 
+#En este repositorio iré subiendo las prácticas de los diferentes cursos de programación 
