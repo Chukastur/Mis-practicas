@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Pruebas en <FirsApp /> debe hacer match con el snapshot 1`] = `
+<div>
+  <h1
+    data-testid="test-title"
+  >
+     
+    Hola, Soy Goku
+     
+  </h1>
+  <p>
+    Soy Fernando
+  </p>
+  <p>
+    Fernando Lopez
+  </p>
+</div>
+`;
+
+exports[`Pruebas en <FirtsApp /> debe hacer match con el snapshot 1`] = `
+<div>
+  <h1
+    data-testid="test-title"
+  >
+     
+    Hola, Soy Goku
+     
+  </h1>
+  <p>
+    Soy Fernando
+  </p>
+  <p>
+    Fernando Lopez
+  </p>
+</div>
+`;
