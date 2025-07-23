@@ -1,0 +1,21 @@
+/*la clase tiene prioridad */
+/* a{
+  text-decoration: purple wavy underline;
+}
+
+.sin-subrayado{
+  text-decoration: none;
+} */
+
+/* El id tiene prioridad (el mas específico) */
+/* #titulo {
+  color: rgb(92, 26, 153);
+}*/
+
+.texto-azul{
+  color: blue !important;
+}
+
+#titulo{
+  color:black;
+}
