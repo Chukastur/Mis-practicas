@@ -2,7 +2,7 @@ import { fileUpload } from '../../src/helpers/fileUpload';
 import { v2 as cloudinary } from 'cloudinary';
 
 cloudinary.config ({
-  cloud_name:'dkpe5thi1',
+  cloud_name:'',
   api_key:'',
   api_secret:'',
   secure: true
