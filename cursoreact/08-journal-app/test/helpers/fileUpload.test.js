@@ -3,8 +3,8 @@ import { v2 as cloudinary } from 'cloudinary';
 
 cloudinary.config ({
   cloud_name:'dkpe5thi1',
-  api_key:'157635693971556',
-  api_secret:'f7B_AULaf9aOVsyXzxohvphhHrM',
+  api_key:'',
+  api_secret:'',
   secure: true
 });
 
